@@ -34,7 +34,7 @@ div {
 
 .the-box-text {
     box-sizing: content-box;
-    padding: 20px 20px 0px 20px;
+    padding: 00px 20px 0px 20px;
     /* border: 3px solid red; */
     clear: both; /* clear the section heading */
 }
